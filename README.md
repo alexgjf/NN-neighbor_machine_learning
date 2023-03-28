@@ -36,12 +36,12 @@ The code design has been generalised to accept different sizes of dataset, which
  
 Dataset details
 
-CS170_Spring_2022_Small_data__30.txt: 10 features, 40 instances
+Small_data__30.txt: 10 features, 40 instances
 
 X-axis: feature 8, y-axis: feature 3
 
 
-CS170_Spring_2022_Large_data__30.txt: 40 features. 100 instances
+Large_data__30.txt: 40 features. 100 instances
 
 X-axis: feature 6, y-axis: feature 2
 
